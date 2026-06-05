@@ -1,4 +1,4 @@
-![](https://static.jasp-stats.org/green_logo_dark_text_for_github.png)
+![](https://ecofieldtrips.com/wp-content/uploads/2022/04/EFT-logo.png)
 
 **JASP** is a cross-platform software that allows you to conduct statistical analyses in seconds,
 and without having to learn programming or risking a programming mistake. It aims to be a 
